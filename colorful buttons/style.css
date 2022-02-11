@@ -1,0 +1,17 @@
+.buttons {
+  display: flex;
+}
+
+#show {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+}
+
+* {
+  margin: 50px;
+}
+
+.but {
+  margin-left: 10px;
+}
